@@ -5,7 +5,12 @@ Manning LiveProject WhatsAppNotifications
 
 # NPM Version: 6.14.6
 
-# Serverless Framework Version: '1'
+# serverless --version Output
+Framework Core: 1.82.0
+Plugin: 3.8.3
+SDK: 2.3.1
+Components: 2.34.9
+
 
 # Hello World Output
 {
